@@ -1,4 +1,6 @@
-# first-repo
-This is first repo
+# Bouncing Snakes
+Bouncing Snakes
 
-Chaneges are made
+Javascript 
+p5.js
+
